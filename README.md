@@ -1,7 +1,7 @@
 <a name="custom_anchor_name"></a>
 # A HTML based website related to coffee :coffee:  
 
-## Concepts applied (but not limited too)
+## Concepts applied (*but not limited too*)
 - ### single page links
 - ### nav bar
 - ### internal links
