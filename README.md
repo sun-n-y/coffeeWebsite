@@ -1,5 +1,5 @@
 <a name="custom_anchor_name"></a>
-# A HTML based webpage related to coffee :coffee:  
+# A HTML based website related to coffee :coffee:  
 
 ## Concepts applied (but not limited too)
 - ### single page links
